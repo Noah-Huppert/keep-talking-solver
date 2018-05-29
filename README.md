@@ -17,4 +17,6 @@ solution will be printed out.
 
 Currently solved:
 
-- Passwords (`passwords.py`)
+- Passwords
+
+Run the solver program by executing the `solve.py` file.
